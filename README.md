@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **err0r404official@protonmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
