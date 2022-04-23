@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ERR0R_404</h1>
 <h3 align="center">Im from India</h3>
-📌 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 📌
- <img src="https://profile-counter.glitch.me/freeCodeCamp/count.svg" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=err0r404official&label=Profile%20views&color=0e75b6&style=flat" alt="err0r404official" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=err0r404official" alt="err0r404official" /></a> </p>
